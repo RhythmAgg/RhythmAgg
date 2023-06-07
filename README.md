@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://kaggle.com/rhythmpy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rhythmpy" height="30" width="40" /></a>
 <a href="https://instagram.com/rhythm_1594" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rhythm_1594" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/suff_erer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="suff_erer" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/RhythmCodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="suff_erer" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rhyagg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rhyagg" height="30" width="40" /></a>
 </p>
 
