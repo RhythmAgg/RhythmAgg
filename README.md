@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rhyagg2002@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wY8Bg7hex89PVIuPnvTA2w6loh9S36qo/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XFvlt3M4eXKgcAO9TCN2xrMLoWSy2AvE/view?usp=sharing)
 
 - ⚡ Fun fact **I look funny while coding**
 
