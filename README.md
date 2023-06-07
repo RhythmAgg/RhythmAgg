@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rhythm2002@gmail.com**
 
-- 📄 Know about my experiences [ok](ok)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1wY8Bg7hex89PVIuPnvTA2w6loh9S36qo/view?usp=sharing](Resume)
 
 - ⚡ Fun fact **I look funny while coding**
 
